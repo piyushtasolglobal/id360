@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780486579368",
+    "project_id": "id360-a7877",
+    "storage_bucket": "id360-a7877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780486579368:android:8e8bdf1376919768df1e9d",
+        "android_client_info": {
+          "package_name": "com.indolytics.id360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780486579368-gg1nk18g0gso3frkqgge4plv5vbn1g1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX4rfTreo017xjpvpm3o8ROAbna9WXUik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780486579368-gg1nk18g0gso3frkqgge4plv5vbn1g1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
